@@ -1,0 +1,17 @@
+/*Overskrive defult styling*/
+body {
+    margin:0px;
+    color: green;
+    font-size: x-large;
+    background-color: rgb(235, 127, 88);
+}
+
+.L1{ color: blue;}
+
+    /* Bespoke styling*/
+.Navbar{
+        background-color: limegreen;
+    }
+
+{ display:flex: auto;
+}
