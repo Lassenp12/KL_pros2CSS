@@ -1,13 +1,17 @@
-/*Hello! I am a comment*/
-
-h1{
-    color:rgb(108, 168, 93);
-    background-color: brown;
-    font-size: 50px;
+/*Overskrive defult styling*/
+body {
+    margin:0px;
+    color: green;
+    font-size: x-large;
+    background-color: rgb(235, 127, 88);
 }
-p{
-    font-family:Verdana, Geneva, Tahoma, sans-serif
-}
-#P1{color:blue;}
 
-.P2 {background-color: cornflowerblue;}
+.L1{ color: blue;}
+
+    /* Bespoke styling*/
+.Navbar{
+        background-color: limegreen;
+    }
+
+{ display:flex: auto;
+}
