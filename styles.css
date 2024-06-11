@@ -1,4 +1,3 @@
-/*Overskrive defult styling*/
 body {
     margin:0px;
     color: green;
@@ -8,10 +7,8 @@ body {
 
 .L1{ color: blue;}
 
-    /* Bespoke styling*/
 .Navbar{
         background-color: limegreen;
     }
 
-{ display:flex: auto;
-}
+display {flex: auto;}
